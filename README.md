@@ -8,3 +8,12 @@ Genera contraseñas seguras para distintas plataformas que necesiten registro co
 PRUEBAS EJEMPLO
 
 - https://todoreal.com/genpass/
+
+HERRAMIENTAS
+
+- Numeros
+- Simbolos
+- Cantidad
+- Minusculas
+- Mayusculas
+- Redes
